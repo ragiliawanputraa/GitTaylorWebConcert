@@ -80,7 +80,7 @@
                 <div class="kartukontak">
 
                   <div class="kartu kartunama grayosh">
-                    <p class="namakn">Ragiliawan Putra Rencana</p>
+                    <p class="namakn">Ragiliawan Putra Rencana Jelek ky pantat babi</p>
                     <div class="icon">
                       <a target="_blank" href="mailto:ragiliawanputra@gmail.com"> <img src="./image/email60.png" alt="Tunggu Sebentar Yaaa~"> </a>
                       <a target="_blank" href="https://www.instagram.com/ragiliawanputra/?hl=en"> <img src="./image/instagram60.png" alt="Tunggu Sebentar Yaaa~"> </a>
